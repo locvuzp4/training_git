@@ -7,5 +7,6 @@
 </head>
 <body>
 	<p>ok</p>
+	<p>ok2</p>
 </body>
 </html>
